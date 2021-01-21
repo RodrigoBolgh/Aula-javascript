@@ -1,3 +1,8 @@
+//-----------------------------------------------------------------------------------------
+
+
+/*
+
 function clicou(){
     document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>"
     alert("Obrigado por clicar")
@@ -28,16 +33,6 @@ function funcaoChange(elemento){
     console.log(elemento.value)
 }
 
-
-
-
-
-
-
-//-----------------------------------------------------------------------------------------
-
-
-/*
 var nome = "Ana Beatriz"
 var idade = 10
 var idade2 = 8
